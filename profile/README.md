@@ -6,8 +6,8 @@
 
 | 图标 | 插件名称 | 适用平台 | 核心功能 | 安装 / 源码 |
 | :---: | --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/Mug-Plugins/telegram-media-manager/main/assets/icon.jpg" width="36" /> | **Telegram Media Manager** | Telegram Web (K / A) | 自动嗅探或扫描当前聊天窗口最近 10 个媒体，支持筛选、勾选与排队下载 | [查看仓库](https://github.com/Mug-Plugins/telegram-media-manager) · [直接安装](https://raw.githubusercontent.com/Mug-Plugins/telegram-media-manager/main/telegram-media-manager.user.js) |
-| <img src="https://raw.githubusercontent.com/Mug-Plugins/x-gif-downloader/main/assets/icon.jpg" width="36" /> | **X (Twitter) GIF 下载与转码器** | X / Twitter | 在 GIF 卡片右上角注入 MP4 原画下载与纯本地实时转码真 `.gif` 导出双按钮 | [查看仓库](https://github.com/Mug-Plugins/x-gif-downloader) · [直接安装](https://raw.githubusercontent.com/Mug-Plugins/x-gif-downloader/main/x-gif-downloader.user.js) |
+| <img src="./assets/telegram-media-manager.jpg" width="36" /> | **Telegram Media Manager** | Telegram Web (K / A) | 自动嗅探或扫描当前聊天窗口最近 10 个媒体，支持筛选、勾选与排队下载 | [查看仓库](https://github.com/Mug-Plugins/telegram-media-manager) · [直接安装](https://raw.githubusercontent.com/Mug-Plugins/telegram-media-manager/main/telegram-media-manager.user.js) |
+| <img src="./assets/x-gif-downloader.jpg" width="36" /> | **X (Twitter) GIF 下载与转码器** | X / Twitter | 在 GIF 卡片右上角注入 MP4 原画下载与纯本地实时转码真 `.gif` 导出双按钮 | [查看仓库](https://github.com/Mug-Plugins/x-gif-downloader) · [直接安装](https://raw.githubusercontent.com/Mug-Plugins/x-gif-downloader/main/x-gif-downloader.user.js) |
 
 ## 🚀 快速使用
 
